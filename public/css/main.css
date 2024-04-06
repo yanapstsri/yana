@@ -48,7 +48,7 @@ h1 {
   height: 250px;
   position: absolute;
   top: 20px;
-  right: 450px;
+  right: 650px;
   width: 30%;
   box-shadow: -2px -2px 15px #888888;
 }
@@ -102,7 +102,7 @@ label {
   height: 250px;
   position: absolute;
   bottom: 90px;
-  right: 450px;
+  right: 650px;
   width: 100%;
   box-shadow: -2px -2px 15px #888888;
 }
@@ -110,7 +110,7 @@ label {
   height: 250px;
   position: absolute;
   bottom: 90px;
-  right: 450px;
+  right: 650px;
   width: 100%;
   box-shadow: -2px -2px 15px #888888;
 }
