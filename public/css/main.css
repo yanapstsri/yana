@@ -63,7 +63,7 @@ h1 {
 }
 
 body {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(https://e1.pxfuel.com/desktop-wallpaper/439/1016/desktop-wallpaper-batik-and-backgrounds-htr-batik.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(https://st.depositphotos.com/30440304/54520/i/450/depositphotos_545204552-stock-photo-white-geometric-background-premium-abstract.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -86,14 +86,14 @@ body {
 
 #roomId {
   width: 200px; /* Atur lebar sesuai kebutuhan */
-  background-color: black;
+  background-color: grey;
 }
 
 label {
   display: block; /* Memastikan elemen memiliki lebar penuh */
   text-align: center; /* Menengahkan teks secara horizontal */
   margin-bottom: 170px; /* Optional: Menambahkan jarak antara label dan input */
-  color: blue;
+  color: black;
 }
 
 #localVideo-container2 {
