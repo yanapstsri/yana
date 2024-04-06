@@ -108,8 +108,8 @@ label {
 #localVideo-container2 video {
   height: 250px;
   position: absolute;
-  bottom: 0px;
-  right: 0px;
+  bottom: 90px;
+  right: 650px;
   width: 100%;
   box-shadow: -2px -2px 15px #888888;
 }
