@@ -45,10 +45,10 @@ h1 {
 
 
 #localVideo-container {
-  height: 250px;
+  height: 240px;
   position: absolute;
   top: 20px;
-  right: 600px;
+  right: 650px;
   width: 20%;
   box-shadow: -2px -2px 15px #888888;
 }
@@ -97,10 +97,10 @@ label {
 }
 
 #localVideo-container2 {
-  height: 250px;
+  height: 240px;
   position: absolute;
   bottom: 90px;
-  right: 600px;
+  right: 650px;
   width: 20%;
   box-shadow: -2px -2px 15px #888888;
 }
