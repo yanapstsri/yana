@@ -48,19 +48,21 @@ h1 {
   height: 250px;
   position: absolute;
   top: 20px;
-  right: 650px;
-  width: 100%;
+  right: 450px;
+  width: 30%;
   box-shadow: -2px -2px 15px #888888;
 }
 
 #localVideo-container video {
   height: 250px;
   position: absolute;
-  top: 20px;
-  right: 650px;
+  top: 0px;
+  right: 0px;
   width: 100%;
   box-shadow: -2px -2px 15px #888888;
 }
+
+
 
 body {
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(https://st.depositphotos.com/30440304/54520/i/450/depositphotos_545204552-stock-photo-white-geometric-background-premium-abstract.jpg);
@@ -100,16 +102,15 @@ label {
   height: 250px;
   position: absolute;
   bottom: 90px;
-  right: 650px;
+  right: 450px;
   width: 100%;
   box-shadow: -2px -2px 15px #888888;
 }
-
 #localVideo-container2 video {
   height: 250px;
   position: absolute;
   bottom: 90px;
-  right: 650px;
+  right: 450px;
   width: 100%;
-  box-shadow: -2px -2px 15px #888888;
+  box-shadow: -2px -2px 15px #888888;
 }
