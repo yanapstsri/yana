@@ -45,7 +45,7 @@ h1 {
 
 
 #localVideo-container {
-  height: 240px;
+  height: 250px;
   position: absolute;
   top: 20px;
   right: 650px;
@@ -54,7 +54,7 @@ h1 {
 }
 
 #localVideo-container video {
-  height: 250px;
+  height: 260px;
   position: absolute;
   top: 0px;
   right: 0px;
@@ -76,7 +76,7 @@ body {
 
 #controls {
   text-align: center;
-  margin-top: 650px; /* Optional: Add some space above the buttons */
+  margin-top: 700px; /* Optional: Add some space above the buttons */
 }
 
 #joinBtn,
@@ -97,7 +97,7 @@ label {
 }
 
 #localVideo-container2 {
-  height: 240px;
+  height: 250px;
   position: absolute;
   bottom: 90px;
   right: 650px;
