@@ -1,0 +1,106 @@
+h1 {
+  height: 50px;
+  position: absolute;
+  bottom: 2px;
+  right: 1050px;
+  width: 30%;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+.grid-item {
+  height: 250px;
+  position: absolute;
+  bottom: 90px;
+  right: 450px;
+  width: 30%;
+  box-shadow: -2px -2px 15px #888888;
+}
+
+.grid-item p {
+  font-size: 20px;
+  margin: 0;
+  position: absolute;
+  color: white;
+  font-weight: bold;
+}
+.grid-item video {
+  height: 250px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 100%;
+  box-shadow: -2px -2px 15px #888888;
+}
+.grid-item .kick_btn {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+
+#localVideo-container {
+  height: 250px;
+  position: absolute;
+  top: 20px;
+  right: 450px;
+  width: 30%;
+  box-shadow: -2px -2px 15px #888888;
+}
+
+#localVideo-container video {
+  height: 250px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 100%;
+  box-shadow: -2px -2px 15px #888888;
+}
+
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(https://mrwallpaper.com/images/high/aesthetic-pixel-art-laptop-qoglulzghut1za5m.webp);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#controls {
+  text-align: center;
+  margin-top: 500px; /* Optional: Add some space above the buttons */
+}
+
+#joinBtn,
+#leaveBtn {
+  display: inline-block; /* Make buttons inline-block */
+}
+
+#roomId {
+  width: 200px; /* Atur lebar sesuai kebutuhan */
+  background-color: pink;
+}
+
+label {
+  display: block; /* Memastikan elemen memiliki lebar penuh */
+  text-align: center; /* Menengahkan teks secara horizontal */
+  margin-bottom: 170px; /* Optional: Menambahkan jarak antara label dan input */
+  color: blue;
+}
+
+#localVideo-container2 {
+  height: 250px;
+  position: absolute;
+  bottom: 90px;
+  right: 450px;
+  width: 30%;
+  box-shadow: -2px -2px 15px #888888;
+}
